@@ -12,6 +12,7 @@ export default function Portfolio() {
       .then((data) => setInfo(data))
       .catch((error) => console.error("Error loading data:", error));
   }, []);
+  
 
   if (!info) return <p>Loading...</p>;
 
