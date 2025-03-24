@@ -1,0 +1,45 @@
+{
+    "about": {
+      "name": "Utkarsh Agarwal",
+      "title": "Lead Data Engineer | Azure Specialist | AI/ML Engineer",
+      "description": "Data Engineer with expertise in Azure Data Factory, Power Platform, Databricks, Python, SQL, and Power BI. I optimize data pipelines to improve processing efficiency and deliver actionable insights.",
+      "resume": "/mnt/data/draftresume1.pdf"
+    },
+    "skills": [
+      "Azure Data Factory",
+      "Power Platform",
+      "Databricks",
+      "Power BI",
+      "SQL Server",
+      "Python",
+      "Spark",
+      "Data Engineering"
+    ],
+    "workExperience": [
+      {
+        "company": "ZS Associates",
+        "role": "Lead Data Engineer | Sept 2022 - Present",
+        "details": [
+          "Designed and optimized large-scale data pipelines for real-time analytics.",
+          "Developed Azure-based data solutions improving efficiency by 30%.",
+          "Automated reporting workflows with Power BI and Databricks.",
+          "Implemented ML-driven predictive analytics for pharmaceutical clients."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "BMS Share Shift Analytics",
+        "desc": "Developed real-time analytics solutions with Databricks and Power BI.",
+        "details": "Implemented real-time data ingestion pipelines using Databricks and Power BI, optimizing analytics for pharmaceutical sales forecasting.",
+        "github": "https://github.com/yourgithub/project1"
+      },
+      {
+        "title": "GORE PPG Analytics",
+        "desc": "Built scalable data pipelines, improving processing speed by 40%.",
+        "details": "Designed a scalable ETL pipeline for processing large datasets, reducing data processing time by 40%.",
+        "github": "https://github.com/yourgithub/project2"
+      }
+    ]
+  }
+  
