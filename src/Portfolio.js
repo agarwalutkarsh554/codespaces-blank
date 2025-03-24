@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import { FaGithub, FaLinkedin, FaTwitter, FaFilePdf, FaExternalLinkAlt, FaEnvelope } from "react-icons/fa";
 import { FiMenu, FiX } from "react-icons/fi";
