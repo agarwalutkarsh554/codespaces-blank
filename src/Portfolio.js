@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { FaGithub, FaLinkedin, FaTwitter, FaFilePdf, FaExternalLinkAlt, FaEnvelope } from "react-icons/fa";
 import { FiMenu, FiX } from "react-icons/fi";
-
+import './index.css'; // Import your CSS file here
 // Load JSON data dynamically
 export default function Portfolio() {
   const [info, setInfo] = useState(null);
